@@ -13,5 +13,9 @@ public class TimeUtil {
 	public static final void update() {
 		CURRENT_TIME = System.currentTimeMillis();
 	}
+	
+	public static final void update2() {
+		CURRENT_TIME = System.currentTimeMillis();
+	}
 
 }
